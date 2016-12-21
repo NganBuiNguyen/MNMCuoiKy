@@ -24,6 +24,7 @@ print_r($_POST);
 Nhập x:<input type="text" name="x" value="1"><br>
 Nhập y:<input type="text" name="y" value="2"><br>
 Nhập z:<input type="text" name="z" value="3"><br>
+Xuất kết quả:<input type="text" name="kq" value=""></br>
 <input type="submit" >
 </form>
 </fieldset>
@@ -34,6 +35,7 @@ Nhập z:<input type="text" name="z" value="3"><br>
 Nhập x1:<input type="text" name="x[]" value="1"><br>
 Nhập x2:<input type="text" name="x[]" value="2"><br>
 Nhập y:<input type="text" name="y" value="3"><br>
+Xuất kết quả:<input type="text" name="kq" value=""></br>
 <input type="submit" >
 </form>
 </fieldset>
@@ -47,6 +49,9 @@ giới tính:<input type="radio" name="gt" value="1">Nam
 Sở Thích:<input type="checkbox" name="st[]" value="tt">Thể Thao
 		<input type="checkbox" name="st[]" value="dl">Du Lịch
 		<input type="checkbox" name="st[]" value="game">Game<br>
+Màu yêu thích:<input type="checkbox" name="ms" value="xanh">Xanh<br>
+                <input type="checkbox" name="ms" value="do">Đỏ<br>
+                <input type="checkbox" name="ms" value="vang">Vàng<br>
 <input type="submit" >
 </form>
 </fieldset>
