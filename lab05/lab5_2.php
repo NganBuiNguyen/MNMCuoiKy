@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -35,7 +35,10 @@ Xuất kết quả:<input type="text" name="kq" value=""></br>
 Nhập x1:<input type="text" name="x[]" value="1"><br>
 Nhập x2:<input type="text" name="x[]" value="2"><br>
 Nhập y:<input type="text" name="y" value="3"><br>
+
 Xuất kết quả:<input type="text" name="kq" value=""></br>
+Nhập z:<input type="text" name="y" value="3"><br>
+
 <input type="submit" >
 </form>
 </fieldset>
