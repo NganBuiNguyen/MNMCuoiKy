@@ -37,6 +37,18 @@ Nhập y:<input type="text" name="y" value="3"><br>
 <fieldset>
 <legend>Form 3</legend>
 <form action="lab5_1.php" method="get">
+Nhập x3:<input type="text" name="x[]" value="1"><br>
+Nhập x4:<input type="text" name="x[]" value="2"><br>
+Nhập y1:<input type="text" name="y" value="3"><br>
+<input type="submit" >
+</form>
+</fieldset>
+
+
+
+<fieldset>
+<legend>Form 3</legend>
+<form action="lab5_1.php" method="get">
 Nhập tên:<input type="text" name="ten" ><br>
 giới tính:<input type="radio" name="gt" value="1">Nam
 		  <input type="radio" name="gt" value="0">Nữ<br>
