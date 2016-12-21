@@ -34,6 +34,7 @@ Nhập z:<input type="text" name="z" value="3"><br>
 Nhập x1:<input type="text" name="x[]" value="1"><br>
 Nhập x2:<input type="text" name="x[]" value="2"><br>
 Nhập y:<input type="text" name="y" value="3"><br>
+Nhập z:<input type="text" name="y" value="3"><br>
 <input type="submit" >
 </form>
 </fieldset>
